@@ -8,6 +8,9 @@ title: About
 The {{ site.name }}
 ===================
 
+**Note that no Hacker Within meetings are scheduled for the summer months. Look
+for new meetings in the fall.**
+
 <ul class="listing">
   <li> <span>Spring 2016</span> <a href="{{ site.url }}/upcoming.html">Upcoming Topics</a></li>
   <li> <span>pre-2016</span> <a href="{{ site.url }}/previous.html">Previous Topics</a></li>
